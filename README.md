@@ -11,6 +11,6 @@ Amazon Lex enables any developer to build conversational chatbots quickly. With 
 
 ## Server architecture
 
-![Server blocks](https://github.com/Connector73/voice-agent/blob/master/docs/Diagram.svg)
+![Server blocks](https://github.com/loginet-solutions-ou/voice-agent/blob/master/docs/Diagram.svg)
 
 Preconfigured server will be available in the AWS Marketplace soon!
